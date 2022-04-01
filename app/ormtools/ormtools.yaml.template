@@ -1,0 +1,6 @@
+ormGen:
+  ormPath: "E:/tyh_work_card/server_project/helper_tools/pkg/ormdef/"
+  pbPath: "E:/tyh_work_card/server_project/helper_tools/pkg/ormdef/"
+  tbPath: "E:/tyh_work_card/server_project/helper_tools/pkg/tbobj/"
+  pkgPath: "helpertools/pkg"
+mysqlConnStr: "root:123456@tcp(192.168.13.26:3306)/logs_myth?charset=utf8mb4&parseTime=True&loc=Local"
